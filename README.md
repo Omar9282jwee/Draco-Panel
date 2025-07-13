@@ -1,8 +1,8 @@
 # Draco-Panel
 
-# modded version of codesanbox: Docker
+### modded version of codesanbox: Docker
 
-# Panel
+### Panel
 ```
 git clone https://github.com/dragonlabsdev/v2panel
 ```
@@ -24,7 +24,7 @@ npm install && npm run seed && npm run createUser
 ```
 node .
 ```
-# -------------------------------------------------------
+### Node
 ```
 node
 ```
@@ -39,6 +39,17 @@ npm install
 ```
 ```
 node .
+```
+
+### ip-costom
+```
+wget https://github.com/playit-cloud/playit-agent/releases/download/v0.15.26/playit-linux-amd64
+chmod +x playit-linux-amd64
+./playit-linux-amd64
+```
+### for again start ->
+```
+./playit-linux-amd64
 ```
 
 npm run configure -- --panel http://localhost:3000 --key f2c73cec-313c-45b8-b44a-5168652440aa
