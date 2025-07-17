@@ -26,9 +26,6 @@ node .
 ```
 ### Node
 ```
-node
-```
-```
 git clone https://github.com/draco-labes/draco-daemon
 ```
 ```
