@@ -4,38 +4,11 @@
 
 ### Panel
 ```
-git clone https://github.com/dragonlabsdev/v2panel
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Draco-Panel/refs/heads/main/draco)
 ```
+### Node-Wings
 ```
-curl -sL https://deb.nodesource.com/setup_23.x | sudo bash -
-```
-```
-apt-get install nodejs git
-```
-```
-cd v2panel
-```
-```
-apt install zip -y && unzip panel.zip && cd panel
-```
-```
-npm install && npm run seed && npm run createUser
-```
-```
-node .
-```
-### Node
-```
-git clone https://github.com/draco-labes/draco-daemon
-```
-```
-cd draco-daemon
-```
-```
-npm install
-```
-```
-node .
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Draco-Panel/refs/heads/main/daemon)
 ```
 
 ### ip-costom-Minecraft
