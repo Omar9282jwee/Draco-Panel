@@ -35,6 +35,7 @@ cd draco-daemon
 ```
 npm install
 ```
+- paste your configure of node
 ```
 node .
 ```
