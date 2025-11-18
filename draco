@@ -13,7 +13,7 @@ echo "
                   ZarkosX
 "
 
-git clone https://github.com/dragonlabsdev/v2panel
+git clone https://github.com/teryxlabs/v4panel
 
 curl -sL https://deb.nodesource.com/setup_23.x | sudo bash -
 
